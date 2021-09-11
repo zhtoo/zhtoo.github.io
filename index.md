@@ -13,7 +13,7 @@ $ hexo new "My New Post"
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### 开启服务
 
 ``` bash
 $ hexo server
